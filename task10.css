@@ -1,0 +1,11 @@
+/* Original image */
+.hover-image {
+    position: absolute;
+    top: 80px;
+    left: 90px;
+  }
+  
+  .hover-image:hover {
+    top: 100px;
+    left: 100px;
+  }
